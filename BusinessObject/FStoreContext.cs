@@ -23,7 +23,7 @@ namespace BusinessObject
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("server=localhost; database=FStore;uid=sa;password=12345678;TrustServerCertificate=True;");
+                optionsBuilder.UseSqlServer("server=localhost; database=FStore;uid=sa;password=sa;TrustServerCertificate=True;");
             }
         }
 

@@ -45,7 +45,7 @@ namespace SalesWinApp
                 if (quantity > product.UnitsInStock)
                     throw new Exception("Quantity must be lower than unit in stock");
                 Cart.UpdateCart(product, quantity);
-                FrmCart.Refresh();
+                //FrmCart.Refresh();
                 Close();
                 
             }

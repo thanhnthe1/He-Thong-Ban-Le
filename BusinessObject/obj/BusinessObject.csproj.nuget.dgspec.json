@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\BusinessObject\\BusinessObject.csproj": {}
+    "E:\\Project PRN\\BusinessObject\\BusinessObject.csproj": {}
   },
   "projects": {
-    "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\BusinessObject\\BusinessObject.csproj": {
+    "E:\\Project PRN\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "E:\\Project PRN\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\BusinessObject\\BusinessObject.csproj",
+        "projectPath": "E:\\Project PRN\\BusinessObject\\BusinessObject.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\BusinessObject\\obj\\",
+        "outputPath": "E:\\Project PRN\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,7 +69,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -78,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

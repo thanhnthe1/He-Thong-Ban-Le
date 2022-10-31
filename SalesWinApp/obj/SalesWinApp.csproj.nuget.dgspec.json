@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\SalesWinApp\\SalesWinApp.csproj": {}
+    "E:\\Project PRN\\SalesWinApp\\SalesWinApp.csproj": {}
   },
   "projects": {
-    "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\BusinessObject\\BusinessObject.csproj": {
+    "E:\\Project PRN\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "E:\\Project PRN\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\BusinessObject\\BusinessObject.csproj",
+        "projectPath": "E:\\Project PRN\\BusinessObject\\BusinessObject.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\BusinessObject\\obj\\",
+        "outputPath": "E:\\Project PRN\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,7 +69,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -78,18 +79,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\DataAccess\\DataAccess.csproj": {
+    "E:\\Project PRN\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "E:\\Project PRN\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\DataAccess\\DataAccess.csproj",
+        "projectPath": "E:\\Project PRN\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\DataAccess\\obj\\",
+        "outputPath": "E:\\Project PRN\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -106,8 +107,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\BusinessObject\\BusinessObject.csproj"
+              "E:\\Project PRN\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "E:\\Project PRN\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }
@@ -151,7 +152,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -160,25 +162,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\SalesWinApp\\SalesWinApp.csproj": {
+    "E:\\Project PRN\\SalesWinApp\\SalesWinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\SalesWinApp\\SalesWinApp.csproj",
+        "projectUniqueName": "E:\\Project PRN\\SalesWinApp\\SalesWinApp.csproj",
         "projectName": "SalesWinApp",
-        "projectPath": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\SalesWinApp\\SalesWinApp.csproj",
+        "projectPath": "E:\\Project PRN\\SalesWinApp\\SalesWinApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\SalesWinApp\\obj\\",
+        "outputPath": "E:\\Project PRN\\SalesWinApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -188,11 +190,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\BusinessObject\\BusinessObject.csproj"
+              "E:\\Project PRN\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "E:\\Project PRN\\BusinessObject\\BusinessObject.csproj"
               },
-              "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Projeect_PRN211_FALL2022\\project12(WF)\\DataAccess\\DataAccess.csproj"
+              "E:\\Project PRN\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "E:\\Project PRN\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -236,7 +238,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -248,7 +251,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
